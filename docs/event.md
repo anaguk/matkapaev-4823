@@ -2,5 +2,5 @@
 # Viru raba matkapäev
 Koht: Viru raba, Lahemaa rahvuspark
 Osalejate piir: 28
-Registreerimine: avatud
+Registreerimine: suletud
 Saabumine: pargi auto Viru raba parklasse ja alusta laudteed infotahvli juurest.
