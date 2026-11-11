@@ -11,3 +11,4 @@ Dokumendid:
 - [Ürituse andmed](docs/event.md)
 - [Päevakava](docs/program.md)
 - [Korraldaja kontrollnimekiri](docs/checklist.md)
+Õppeprojekt: andmed on väljamõeldud.
