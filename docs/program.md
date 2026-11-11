@@ -4,3 +4,4 @@
 2. Laudteel matkamine rabas
 3. Teejoomise peatus vaateplatvormil
 4. Tagasitee alguspunkti
+5. Lühike kokkuvõte raja lõpus
