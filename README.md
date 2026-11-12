@@ -6,7 +6,7 @@ Sihtrühm: algajad matkajad
 
 Projekti eesmärk: koostada korraldajale selge infopakett, et matkapäev oleks väljalaskeks valmis.
 
-Osalejate piir: 20
+Osalejate piir: 28
 
 Dokumendid:
 
