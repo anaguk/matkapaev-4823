@@ -6,9 +6,15 @@ Sihtrühm: algajad matkajad
 
 Projekti eesmärk: koostada korraldajale selge infopakett, et matkapäev oleks väljalaskeks valmis.
 
+Osalejate piir: 28
+
 Dokumendid:
 
-- [Ürituse andmed](docs/event.md)
-- [Päevakava](docs/program.md)
-- [Korraldaja kontrollnimekiri](docs/checklist.md)
+- [Ürituse andmed](docs/event.md): koht, registreerimine ja saabumisjuhis.
+- [Päevakava](docs/program.md): matkapäeva tegevused.
+- [Korraldaja kontrollnimekiri](docs/checklist.md): toimingud enne üritust ja pärast matka.
+- [Varustus](docs/equipment.md): matkajale vajalikud esemed.
+- [Juhend](docs/guide.md): saabumise ja lahkumise juhised.
+- [Korduma kippuvad küsimused](docs/faq.md): vastused algajale matkajale.
+
 Õppeprojekt: andmed on väljamõeldud.
